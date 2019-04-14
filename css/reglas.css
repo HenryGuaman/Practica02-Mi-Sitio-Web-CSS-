@@ -20,6 +20,16 @@
     float: left;
 
 }
+#menuPrincipal1{
+    width: 20%;
+    background-color:rgb(14, 241, 173);
+    border-width: 3px;
+    border-color: red;
+    border-style: groove;
+    border-radius: 25%;
+    float: left;
+
+}
 #cuerpo{
     background-repeat: no-repeat;
     background-image: url("../images/imagen3.jpg");
@@ -43,9 +53,10 @@
 }
     
 #imagen{
-    background-position: center center;
+    background-position: center;
     width: 300px;
     height: 200px;
+    
 }
 
 #contactos{
@@ -55,4 +66,32 @@
     background-image: url("../images/imagen3.jpg");
     background-position: top;
     background-attachment: fixed;
+}
+#cuerpo3{
+    background-color: darksalmon;
+    background-repeat: no-repeat;
+    background-image: url("../images/imagen3.jpg");
+    background-position: top;
+    background-attachment: fixed;
+
+}
+#cabecera3{
+    border-width: 3px;
+    border-color: rgb(1, 2, 59);
+    border-style: dotted;
+    
+}
+#cuerpo4{
+    background-color: rgb(12, 141, 180);
+    background-repeat: repeat;
+    background-image: url("../images/imagen11.jpg");
+    background-position: top;
+    background-attachment: fixed;
+
+}
+#cabecera4{
+    border-width: 2px;
+    border-color: rgb(1, 2, 59);
+    border-style: ridge;
+    
 }

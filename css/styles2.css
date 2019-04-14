@@ -17,6 +17,7 @@
     border: 5px double #001eff;
 
 }
+
 #cuerpo{
     background-repeat: repeat;
     background-image: url("../images/imagen11.jpg");
@@ -27,6 +28,7 @@
 #contenido{
     width: 50%;
     border-width: 3px;
+    background-color: aquamarine;
     border-color: green;
     border-style: groove;
     margin-left: 10px;
@@ -39,6 +41,7 @@
     border-width: 3px;
     border-color: red;
     border-style: groove;
+    background-color: goldenrod;
     float: left;
     
 }
