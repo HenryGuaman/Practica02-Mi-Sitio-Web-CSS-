@@ -1,0 +1,53 @@
+#cabecera{
+    border-width: 2px;
+    border-color: rgb(226, 15, 15);
+    
+}
+
+#menuPrincipal{
+    width: 20%;
+    border-width: 3px;
+    border-color: red;
+    border-style: groove;
+    float: left;
+    background-color:darksalmon;
+    border-radius: 98px 98px 98px 98px;
+    -moz-border-radius: 98px 98px 98px 98px;
+    -webkit-border-radius: 98px 98px 98px 98px;
+    border: 5px double #001eff;
+
+}
+#cuerpo{
+    background-repeat: repeat;
+    background-image: url("../images/imagen3.jpg");
+    background-position: top;
+    background-attachment: fixed;
+
+}
+#contenido{
+    width: 50%;
+    border-width: 3px;
+    border-color: green;
+    border-style: groove;
+    margin-left: 10px;
+    padding: 5px 20px ;
+    float: left;
+    /*background-color: white;*/
+}
+#tercero{
+    width: 20%;
+    border-width: 3px;
+    border-color: red;
+    border-style: groove;
+    float: left;
+    
+}
+#pie{
+    clear: both;
+}
+    
+#imagen{
+    width: 300px;
+    height: 200px;
+}
+
