@@ -1,7 +1,6 @@
 #cabecera{
     border-width: 2px;
     border-color: rgb(226, 15, 15);
-    border-style: dashed;
     
 }
 
@@ -16,7 +15,7 @@
 
 }
 #cuerpo{
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-image: url("../images/imagen3.jpg");
     background-position: top;
     background-attachment: fixed;
