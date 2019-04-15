@@ -75,6 +75,7 @@ Pagina index.html la validación y la corrección de todos los errores para que 
 INFORMACION DEL GITHUB
 
 USUARIO: HenryGuaman
+
 URL PAGINA: https://github.com/HenryGuaman/Practica02-Mi-Sitio-Web-CSS-.git
 
 
